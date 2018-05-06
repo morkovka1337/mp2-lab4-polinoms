@@ -1,1 +1,1 @@
-#include "polinom.h"
+#include "Polinoms.h"
